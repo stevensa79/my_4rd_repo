@@ -7,3 +7,5 @@
 * Added text Local
 
 * add NewBranch
+
+* Fixing Conflict

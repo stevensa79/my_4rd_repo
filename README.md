@@ -2,3 +2,6 @@
 
 * Added new TEXT 
 * added text Directly with WebBrowser
+
+
+* Added text Local

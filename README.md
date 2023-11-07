@@ -8,4 +8,4 @@
 
 * add NewBranch
 
-* Fixing Conflict
+* Fixing Conflict text in browser
